@@ -1,0 +1,7 @@
+.template-options-box {
+    max-width: 50%;
+}
+
+.template-options-box table.widefat td.column-title{
+    width: 33.33%;
+}
